@@ -19,6 +19,21 @@ Desenvolvimento de um sistema de alarme utilizando Arduino. O sistema conta com 
 - 1x Módulo KY-021 SENSOR REED SWITCH
 - 1x Arduino UNO
 
+## Imagens do Projeto
+
+Aqui estão os registros do circuito montado na Protoboard e no Simulador Wokwi.
+
+![Simulador](IMAGENS/AlarmeSenha.png)
+
+![Simulador](IMAGENS/Projeto.jpeg)
+
+---
+## Links Úteis
+* 'O código que do projeto original, é um tanto quanto diferente do código elaborado para o tinkercad, apesar de ter o mesmo funcionamento' https://dontpad.com/vejaaqui
+* 'Tinkercad' https://www.tinkercad.com/things/76R4VsNHojb/editel?sharecode=fjB3OPc54GVeUrUuUawFrnU5R_1WLZWVh21bHwvP54I
+[Nosso vídeo de apresentação do projeto] https://youtube.com/shorts/t2IV0UCI2mI
+[Função troca de senha] https://youtube.com/shorts/nUzjnVxpFNs
+
 ## 📚 Bibliotecas Necessárias
 * `Wire.h`: Permite a comunicação I2C entre o Arduino e o display LCD.
 * `LCDIC2.h`: Controla o display LCD.
