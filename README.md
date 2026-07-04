@@ -42,7 +42,7 @@ O código principal (`ProjetoArduino.ino`) foi estruturado utilizando o conceito
 
 ## Imagens do Projeto
 
-Aqui estão os registros do circuito montado na Protoboard e no Simulador Wokwi.
+Aqui estão os registros do circuito montado na Protoboard e no Simulador Tinkercad.
 
 ![Simulador](IMAGENS/AlarmeSenha.png)
 
