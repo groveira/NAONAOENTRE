@@ -1,9 +1,9 @@
 # Trabalho 2: Sistema de Alarme com Arduino
 
 ## 👥 Integrantes
-- Arthur Andrade Carneiro Almeida
-- Guilherme Rodrigues de Oliveira
-- Kawan da Silva Costa
+- Arthur Andrade Carneiro Almeida - 17879332
+- Guilherme Rodrigues de Oliveira - 16907161
+- Kawan da Silva Costa - 15510661
 
 ## 📝 Descrição do Projeto
 Desenvolvimento de um sistema de alarme utilizando Arduino. O sistema conta com um teclado matricial 4x4 para criação e validação de senhas, um display LCD para comunicação com o usuário, um sensor magnético (Reed Switch / KY-021) para detectar a abertura da porta, LEDs de indicação de status e um relé acoplado a um sonalarme.
